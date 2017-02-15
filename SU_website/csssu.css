@@ -1,0 +1,67 @@
+
+ table,td{
+ 
+   margin-top:50px;
+   position :relative;
+   margin-left:300px;
+   border:40px solid white;
+
+}
+
+p{
+  position:relative;
+  margin-left:10px;
+  }
+
+.size{
+      height: 50px;
+        width: 50px;
+        border-radius: 100%;
+
+}
+   
+    button{
+      background-color:black;
+      height:50px;
+      width:175px;
+      padding:10px;
+	  border-radius:10px;
+	  }
+  
+     
+    }
+	
+    .margin{
+    margin-top:-px;
+    color:white;
+    margin-left:-5px;
+    position:relative;
+    }
+    #top{
+      position:absolute;
+      margin-top:250px;
+      
+    }
+    
+     
+     #departments{}
+     #clubs{}
+	 #sports{}
+	 #tech{}
+	 #ngo{}
+	  .pushd{
+         margin-left:200px;
+     }
+         .pushc{
+         margin-left:100px;
+     }
+	 .text{
+	     
+	    margin-top:40px;
+		margin-left:200px;
+	 
+	
+	
+	 }
+
+  
